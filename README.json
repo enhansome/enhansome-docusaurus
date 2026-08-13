@@ -1,0 +1,268 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docusaurus-openapi-docs",
+          "description": "Genertate Markdown documentation from an OpenAPI specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:16:15Z",
+            "owner": "PaloAltoNetworks",
+            "repo": "docusaurus-openapi-docs",
+            "stars": 1099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docusaurus-plugin-remote-content",
+          "description": "Download content from remote sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-09T19:41:52Z",
+            "owner": "RDIL",
+            "repo": "docusaurus-plugin-remote-content",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docusaurus-graphql-plugin",
+          "description": "Generate Markdown documentation from a GraphQL schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-06T18:43:43Z",
+            "owner": "zhouzi",
+            "repo": "docusaurus-graphql-plugin",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Data sources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docusaurus-plugin-image-zoom",
+          "description": "Easily integrate .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-07T17:00:58Z",
+            "owner": "gabrielcsapo",
+            "repo": "docusaurus-plugin-image-zoom",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heroshot",
+          "description": "Screenshot automation with theme-aware component for light/dark mode and responsive viewports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T20:59:04Z",
+            "owner": "omachala",
+            "repo": "heroshot",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Media display"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docusaurus-search-local",
+          "description": "Offline / local search that works behind your firewall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-20T19:21:18Z",
+            "owner": "cmfcmf",
+            "repo": "docusaurus-search-local",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docusaurus-plugin-lunr",
+          "description": "Create search index for use with Lunr.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-19T22:07:02Z",
+            "owner": "daldridge",
+            "repo": "docusaurus-plugin-lunr",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docusaurus-biel",
+          "description": "AI chat and search that answers questions from your documentation, with citations to the source pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-04T16:01:12Z",
+            "owner": "TechDocsStudio",
+            "repo": "docusaurus-biel",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docusaurus-plugin-copy-page-button",
+          "description": "Adds a \"Copy page\" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T11:52:17Z",
+            "owner": "portdeveloper",
+            "repo": "docusaurus-plugin-copy-page-button",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@aeorank/docusaurus",
+          "description": "Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:50:38Z",
+            "owner": "vinpatel",
+            "repo": "aeorank",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docusaurus-plugin-structured-data",
+          "description": "Automatically generate JSON-LD structured data (schema.org) for SEO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T03:04:38Z",
+            "owner": "CoffeeCupTechWriting",
+            "repo": "docusaurus-plugin-structured-data",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Search Engine Optimisation (SEO)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docusaurus-plugin-matomo",
+          "description": "Matomo Analytics plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-03T07:46:52Z",
+            "owner": "karser",
+            "repo": "docusaurus-plugin-matomo",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docusaurus-gtm-plugin",
+          "description": "Google Tag Manager (GTM) plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-18T14:35:23Z",
+            "owner": "LukasGentele",
+            "repo": "docusaurus-gtm-plugin",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Tracking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docusaurus-theme-search-typesense",
+          "description": "Typesense search component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-25T23:56:50Z",
+            "owner": "typesense",
+            "repo": "docusaurus-theme-search-typesense",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmos-docusaurus-theme",
+          "description": "Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-03T16:09:13Z",
+            "owner": "SckyzO",
+            "repo": "cosmos-docusaurus-theme",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:07:55.322Z",
+    "original_repository": "webbertakken/awesome-docusaurus",
+    "original_repository_sha": "185eb7d21e5a5cd41d66e1684ef318d29df2c872",
+    "enhanced_repository": "enhansome/enhansome-docusaurus",
+    "enhanced_repository_description": null,
+    "title": "Awesome Docusaurus with stars"
+  }
+}
