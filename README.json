@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:09:04Z",
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
-                "stars": 1101
+                "stars": 1102
               }
             },
             {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T14:45:43Z",
+                "last_commit": "2026-08-20T14:46:27Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
-                "stars": 13
+                "stars": 14
               }
             },
             {
@@ -274,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:33:14.846Z",
+    "last_updated": "2026-08-21T13:31:48.896Z",
     "original_repository": "webbertakken/awesome-docusaurus",
     "original_repository_id": 492947718,
     "original_repository_sha": "185eb7d21e5a5cd41d66e1684ef318d29df2c872",
