@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:46:23Z",
+                "last_commit": "2026-08-23T12:10:09Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
                 "stars": 14
@@ -274,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:18:24.005Z",
+    "last_updated": "2026-08-23T13:19:52.770Z",
     "original_repository": "webbertakken/awesome-docusaurus",
     "original_repository_id": 492947718,
     "original_repository_sha": "185eb7d21e5a5cd41d66e1684ef318d29df2c872",
