@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T12:10:09Z",
+                "last_commit": "2026-08-23T14:41:19Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
                 "stars": 14
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 1136251647,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T03:06:27Z",
+                "last_commit": "2026-08-24T03:06:33Z",
                 "owner": "CoffeeCupTechWriting",
                 "repo": "docusaurus-plugin-structured-data",
                 "stars": 2
@@ -274,7 +274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:19:52.770Z",
+    "last_updated": "2026-08-24T13:37:07.120Z",
     "original_repository": "webbertakken/awesome-docusaurus",
     "original_repository_id": 492947718,
     "original_repository_sha": "185eb7d21e5a5cd41d66e1684ef318d29df2c872",
