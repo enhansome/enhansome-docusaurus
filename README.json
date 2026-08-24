@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "docusaurus-plugin-content-gists",
+              "description": "Content plugin for displaying your GitHub gists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 492946968,
+                "language": "TypeScript",
+                "last_commit": "2026-07-01T23:41:35Z",
+                "owner": "webbertakken",
+                "repo": "docusaurus-plugin-content-gists",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Content"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "docusaurus-openapi-docs",
               "description": "Genertate Markdown documentation from an OpenAPI specification.",
               "children": [],
@@ -148,6 +170,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "docusaurus-plugin-auto-sidebars",
+              "description": "Automatically generate sidebars from Markdown files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255142530,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T03:19:59Z",
+                "owner": "ghominejad",
+                "repo": "docusaurus-plugin-auto-sidebars",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sidebars"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "docusaurus-plugin-copy-page-button",
               "description": "Adds a \"Copy page\" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.",
               "children": [],
@@ -170,7 +214,7 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:41:19Z",
+                "last_commit": "2026-08-24T14:18:54Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
                 "stars": 14
@@ -232,6 +276,28 @@
           "description": null,
           "node_type": "group",
           "title": "Tracking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "docusaurus-plugin-typedoc-api",
+              "description": "Source code API documentation powered by TypeDoc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389269642,
+                "language": "TypeScript",
+                "last_commit": "2024-09-08T02:29:31Z",
+                "owner": "milesj",
+                "repo": "docusaurus-plugin-typedoc-api",
+                "stars": 76
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "Plugins"
@@ -274,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:37:07.120Z",
+    "last_updated": "2026-08-24T14:35:52.529Z",
     "original_repository": "webbertakken/awesome-docusaurus",
     "original_repository_id": 492947718,
     "original_repository_sha": "185eb7d21e5a5cd41d66e1684ef318d29df2c872",

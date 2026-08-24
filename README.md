@@ -20,10 +20,10 @@
 
 ### Content
 
+* [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) ⭐ 12 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-01 - Content plugin for displaying your GitHub gists.
 * [plugin-content-blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog) (official) - The default blog plugin.
 * [plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) (official) - The default docs plugin.
 * [plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) (official) - The default pages plugin.
-* [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) ⭐ 12 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-01 - Content plugin for displaying your GitHub gists.
 
 ### Data sources
 
@@ -50,7 +50,7 @@
 ### Search Engine Optimisation (SEO)
 
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 15 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-26 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-23 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-24 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
 
@@ -67,8 +67,8 @@
 
 ### Miscellaneous
 
-* [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
 * [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) ⭐ 76 | 🐛 29 | 🌐 TypeScript | 📅 2024-09-08 - Source code API documentation powered by TypeDoc.
+* [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
 
 ## Themes
 
