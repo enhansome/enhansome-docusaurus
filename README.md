@@ -27,7 +27,7 @@
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,102 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-19 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,102 | 🐛 91 | 🌐 TypeScript | 📅 2026-08-25 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 

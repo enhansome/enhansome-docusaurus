@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 460077424,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T15:09:04Z",
+                "last_commit": "2026-08-25T11:28:01Z",
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
                 "stars": 1102
@@ -340,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:56.690Z",
+    "last_updated": "2026-08-25T13:35:20.798Z",
     "original_repository": "webbertakken/awesome-docusaurus",
     "original_repository_id": 492947718,
     "original_repository_sha": "185eb7d21e5a5cd41d66e1684ef318d29df2c872",
