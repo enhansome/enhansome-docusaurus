@@ -73,7 +73,7 @@
 ## Themes
 
 * [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) ⭐ 84 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-19 - Typesense search component.
-* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 1 | 🐛 5 | 🌐 CSS | 📅 2026-08-17 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
+* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 1 | 🐛 6 | 🌐 CSS | 📅 2026-08-24 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
 * [theme-classic](https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic) (official) - The default theme.
 * [theme-live-codeblock](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock) (official) - A theme for live code blocks.
 * [theme-search-algolia](https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia) (official) - Algolia search component.
@@ -84,4 +84,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
