@@ -18,7 +18,8 @@
                 "owner": "webbertakken",
                 "repo": "docusaurus-plugin-content-gists",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
                 "stars": 1102
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "RDIL",
                 "repo": "docusaurus-plugin-remote-content",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "zhouzi",
                 "repo": "docusaurus-graphql-plugin",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             }
           ],
           "description": null,
@@ -92,7 +96,8 @@
                 "owner": "gabrielcsapo",
                 "repo": "docusaurus-plugin-image-zoom",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             },
             {
               "node_type": "item",
@@ -107,7 +112,8 @@
                 "owner": "omachala",
                 "repo": "heroshot",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             }
           ],
           "description": null,
@@ -129,7 +135,8 @@
                 "owner": "cmfcmf",
                 "repo": "docusaurus-search-local",
                 "stars": 502
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "daldridge",
                 "repo": "docusaurus-plugin-lunr",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "TechDocsStudio",
                 "repo": "docusaurus-biel",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             }
           ],
           "description": null,
@@ -181,7 +190,8 @@
                 "owner": "ghominejad",
                 "repo": "docusaurus-plugin-auto-sidebars",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             }
           ],
           "description": null,
@@ -203,7 +213,8 @@
                 "owner": "portdeveloper",
                 "repo": "docusaurus-plugin-copy-page-button",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             },
             {
               "node_type": "item",
@@ -214,11 +225,12 @@
                 "archived": false,
                 "id": 1182092885,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:15:14Z",
+                "last_commit": "2026-08-28T18:41:28Z",
                 "owner": "vinpatel",
                 "repo": "aeorank",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             },
             {
               "node_type": "item",
@@ -229,11 +241,12 @@
                 "archived": false,
                 "id": 1136251647,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:06:33Z",
+                "last_commit": "2026-08-28T03:05:00Z",
                 "owner": "CoffeeCupTechWriting",
                 "repo": "docusaurus-plugin-structured-data",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             }
           ],
           "description": null,
@@ -255,7 +268,8 @@
                 "owner": "karser",
                 "repo": "docusaurus-plugin-matomo",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             },
             {
               "node_type": "item",
@@ -270,7 +284,8 @@
                 "owner": "LukasGentele",
                 "repo": "docusaurus-gtm-plugin",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             }
           ],
           "description": null,
@@ -292,7 +307,8 @@
                 "owner": "milesj",
                 "repo": "docusaurus-plugin-typedoc-api",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
             }
           ],
           "description": null,
@@ -318,7 +334,8 @@
             "owner": "typesense",
             "repo": "docusaurus-theme-search-typesense",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T22:40:23.220Z"
         },
         {
           "node_type": "item",
@@ -333,14 +350,15 @@
             "owner": "SckyzO",
             "repo": "cosmos-docusaurus-theme",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:40:23.220Z"
         }
       ],
       "title": "Themes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:36:05.742Z",
+    "last_updated": "2026-08-28T22:40:23.220Z",
     "original_repository_info": {
       "archived": false,
       "id": 492947718,
