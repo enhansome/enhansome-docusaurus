@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Display your gists inside docusaurus.",
+                "homepage": null,
                 "id": 492946968,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-01T23:41:35Z",
+                "open_issues": 2,
                 "owner": "webbertakken",
                 "repo": "docusaurus-plugin-content-gists",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             }
@@ -35,12 +40,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦝 OpenAPI plugin for generating API reference docs in Docusaurus v3.",
+                "homepage": "https://docusaurus-openapi.tryingpan.dev",
                 "id": 460077424,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T11:28:01Z",
+                "open_issues": 91,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
-                "stars": 1102
+                "stars": 1102,
+                "topics": [
+                  "docusaurus",
+                  "docusaurus-plugin",
+                  "docusaurus-theme",
+                  "docusaurus2",
+                  "openapi",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             },
@@ -51,12 +68,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Docusaurus plugin to download content from remote sources when it is needed.",
+                "homepage": null,
                 "id": 335734179,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T19:41:52Z",
+                "open_issues": 24,
                 "owner": "RDIL",
                 "repo": "docusaurus-plugin-remote-content",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "docusaurus",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             },
@@ -67,12 +92,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docusaurus plugin generating Markdown documentation from a GraphQL schema.",
+                "homepage": "https://gabinaureche.com/docusaurus-graphql-plugin/",
                 "id": 342019645,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-12-06T18:43:43Z",
+                "open_issues": 5,
                 "owner": "zhouzi",
                 "repo": "docusaurus-graphql-plugin",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "documentation",
+                  "docusaurus",
+                  "generator",
+                  "graphql",
+                  "markdown",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             }
@@ -90,12 +127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image Zoom Plugin for Docusaurus 2",
+                "homepage": "https://gabrielcsapo.github.io/docusaurus-plugin-image-zoom/",
                 "id": 404117409,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-07T17:00:58Z",
+                "open_issues": 9,
                 "owner": "gabrielcsapo",
                 "repo": "docusaurus-plugin-image-zoom",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             },
@@ -106,12 +148,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Screenshot automation framework. Define once, regenerate forever. Visual picker, multi-viewport, light/dark mode, CI-ready.",
+                "homepage": "https://heroshot.dev",
                 "id": 1021725053,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-28T20:59:04Z",
+                "open_issues": 4,
                 "owner": "omachala",
                 "repo": "heroshot",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "automation",
+                  "cli",
+                  "developer-tools",
+                  "documentation",
+                  "docusaurus",
+                  "mkdocs",
+                  "playwright",
+                  "screenshot",
+                  "technical-writing",
+                  "typescript",
+                  "vitepress"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             }
@@ -129,12 +188,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offline / Local Search for Docusaurus v3. Try it live at:",
+                "homepage": "https://cmfcmf.github.io/OpenWeatherMap-PHP-API/",
                 "id": 234167893,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-20T19:21:18Z",
+                "open_issues": 30,
                 "owner": "cmfcmf",
                 "repo": "docusaurus-search-local",
-                "stars": 502
+                "stars": 502,
+                "topics": [
+                  "docusaurus",
+                  "lunrjs",
+                  "plugin",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             },
@@ -145,12 +214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docusaurus v2 plugin to create a local search index for use with Lunr.js",
+                "homepage": null,
                 "id": 239543426,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-19T22:07:02Z",
+                "open_issues": 29,
                 "owner": "daldridge",
                 "repo": "docusaurus-plugin-lunr",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             },
@@ -161,12 +235,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI chatbot plugin for Docusaurus",
+                "homepage": "https://docs.biel.ai/installation/docusaurus",
                 "id": 853697137,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-04T16:01:12Z",
+                "open_issues": 1,
                 "owner": "TechDocsStudio",
                 "repo": "docusaurus-biel",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai",
+                  "ask-ai",
+                  "chatbot",
+                  "documentation",
+                  "docusaurus",
+                  "docusaurus-plugin",
+                  "plugin",
+                  "rag",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             }
@@ -184,12 +273,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A docusaurus plugin that generates the sidebar items automatically by filesystem structure",
+                "homepage": null,
                 "id": 255142530,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-06T03:19:59Z",
+                "open_issues": 27,
                 "owner": "ghominejad",
                 "repo": "docusaurus-plugin-auto-sidebars",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "docusaurus",
+                  "docusaurus2",
+                  "generator",
+                  "markdown",
+                  "plugin",
+                  "sidebar",
+                  "sidebars",
+                  "static-site",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             }
@@ -207,12 +311,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docusaurus plugin that adds a copy page button to extract documentation content as markdown for AI tools like ChatGPT, Claude, and Gemini",
+                "homepage": "https://www.npmjs.com/package/docusaurus-plugin-copy-page-button",
                 "id": 1025794517,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-07-26T11:52:17Z",
+                "open_issues": 3,
                 "owner": "portdeveloper",
                 "repo": "docusaurus-plugin-copy-page-button",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "ai-tools",
+                  "chatgpt",
+                  "claude",
+                  "content-extraction",
+                  "developer-tools",
+                  "documentation",
+                  "docusaurus",
+                  "docusaurus-plugin",
+                  "gemini",
+                  "llm",
+                  "markdown",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             },
@@ -223,12 +345,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scan any website for AI visibility. Score 0-100 across 36 criteria. Generate 9 AI-readable files. CLI + GitHub App + 13 framework plugins. Open source.",
+                "homepage": "https://aeorank.dev",
                 "id": 1182092885,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:41:28Z",
+                "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "aeo",
+                  "ai-optimization",
+                  "ai-search",
+                  "ai-visibility",
+                  "answer-engine-optimization",
+                  "chatgpt",
+                  "claude",
+                  "cli",
+                  "developer-tools",
+                  "generative-ai",
+                  "github-action",
+                  "github-app",
+                  "lighthouse",
+                  "llm",
+                  "llms-txt",
+                  "open-source",
+                  "perplexity",
+                  "schema-org",
+                  "seo",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             },
@@ -239,12 +387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Docusaurus plugin that automatically generates JSON-LD structured data (schema.org) for your documentation site's SEO. This plugin scans your markdown/MDX files for front matter schema definitions and generates a React Root component that injects the appropriate structured data into each page.",
+                "homepage": null,
                 "id": 1136251647,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:05:00Z",
+                "open_issues": 9,
                 "owner": "CoffeeCupTechWriting",
                 "repo": "docusaurus-plugin-structured-data",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             }
@@ -262,12 +415,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matomo plugin for Docusaurus v2/v3",
+                "homepage": null,
                 "id": 357546364,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-03T07:46:52Z",
+                "open_issues": 3,
                 "owner": "karser",
                 "repo": "docusaurus-plugin-matomo",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "docusaurus",
+                  "docusaurus-plugin",
+                  "docusaurus2",
+                  "matomo",
+                  "matomo-analytics",
+                  "matomo-tracking"
+                ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             },
@@ -278,12 +443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Google Tag Manager (GTM) plugin for docusaurus v2",
+                "homepage": null,
                 "id": 273258962,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-18T14:35:23Z",
+                "open_issues": 1,
                 "owner": "LukasGentele",
                 "repo": "docusaurus-gtm-plugin",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             }
@@ -301,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docusaurus plugin that provides source code API documentation powered by TypeDoc.",
+                "homepage": null,
                 "id": 389269642,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-09-08T02:29:31Z",
+                "open_issues": 29,
                 "owner": "milesj",
                 "repo": "docusaurus-plugin-typedoc-api",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
             }
@@ -328,12 +503,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense",
+            "homepage": "https://typesense.org/docs/guide/docsearch.html",
             "id": 397507609,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T04:04:48Z",
+            "open_issues": 13,
             "owner": "typesense",
             "repo": "docusaurus-theme-search-typesense",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "docsearch",
+              "docusaurus",
+              "docusaurus-plugin",
+              "docusaurus2",
+              "search-ui",
+              "typesense"
+            ]
           },
           "first_seen": "2026-08-28T22:40:23.220Z"
         },
@@ -344,12 +531,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A clean, dark-first Docusaurus theme plugin based on TailAdmin design system with Outfit typography",
+            "homepage": null,
             "id": 1176687950,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:08:58Z",
+            "open_issues": 6,
             "owner": "SckyzO",
             "repo": "cosmos-docusaurus-theme",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "css",
+              "css-theme",
+              "dark-mode",
+              "docusaurus",
+              "docusaurus-plugin",
+              "docusaurus-theme",
+              "infima",
+              "outfit-font",
+              "tailadmin",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T22:40:23.220Z"
         }
@@ -358,15 +561,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:40:23.220Z",
+    "last_updated": "2026-08-29T04:52:11.495Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Docusaurus resources. ",
+      "homepage": null,
       "id": 492947718,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-16T14:00:40Z",
+      "open_issues": 0,
       "owner": "webbertakken",
       "repo": "awesome-docusaurus",
-      "stars": 168
+      "stars": 168,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "docusaurus",
+        "docusaurus-documentation"
+      ]
     },
     "original_repository_sha": "185eb7d21e5a5cd41d66e1684ef318d29df2c872",
     "enhanced_repository": "enhansome/enhansome-docusaurus",
