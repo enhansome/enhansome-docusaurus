@@ -34,7 +34,7 @@
 ### Media display
 
 * [docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) ⭐ 84 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-07 - Easily integrate `medium-zoom`.
-* [heroshot](https://github.com/omachala/heroshot) ⭐ 72 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
+* [heroshot](https://github.com/omachala/heroshot) ⭐ 73 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
 * [plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) (official) - Responsive images with lazy-loading.
 
 ### Search
@@ -50,7 +50,7 @@
 ### Search Engine Optimisation (SEO)
 
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 15 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-26 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-28 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-29 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-28 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
 

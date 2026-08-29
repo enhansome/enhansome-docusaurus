@@ -157,7 +157,7 @@
                 "open_issues": 4,
                 "owner": "omachala",
                 "repo": "heroshot",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "automation",
                   "cli",
@@ -350,7 +350,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T18:41:28Z",
+                "last_commit": "2026-08-29T14:37:05Z",
                 "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:11.495Z",
+    "last_updated": "2026-08-29T16:52:34.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
