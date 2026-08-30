@@ -50,7 +50,7 @@
 ### Search Engine Optimisation (SEO)
 
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 15 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-26 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-29 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-30 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-28 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
 
@@ -73,7 +73,7 @@
 ## Themes
 
 * [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) ⭐ 84 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Typesense search component.
-* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 1 | 🐛 6 | 🌐 CSS | 📅 2026-08-24 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
+* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 2 | 🐛 6 | 🌐 CSS | 📅 2026-08-24 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
 * [theme-classic](https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic) (official) - The default theme.
 * [theme-live-codeblock](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock) (official) - A theme for live code blocks.
 * [theme-search-algolia](https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia) (official) - Algolia search component.
@@ -84,4 +84,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
