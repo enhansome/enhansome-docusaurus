@@ -317,10 +317,10 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-07-26T11:52:17Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "portdeveloper",
                 "repo": "docusaurus-plugin-copy-page-button",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "ai-tools",
                   "chatgpt",
@@ -350,7 +350,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T14:37:04Z",
+                "last_commit": "2026-08-31T14:39:41Z",
                 "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -392,7 +392,7 @@
                 "id": 1136251647,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T03:05:00Z",
+                "last_commit": "2026-08-31T03:07:27Z",
                 "open_issues": 9,
                 "owner": "CoffeeCupTechWriting",
                 "repo": "docusaurus-plugin-structured-data",
@@ -536,7 +536,7 @@
             "id": 1176687950,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-08-24T16:08:58Z",
+            "last_commit": "2026-08-31T16:07:02Z",
             "open_issues": 6,
             "owner": "SckyzO",
             "repo": "cosmos-docusaurus-theme",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:58:24.702Z",
+    "last_updated": "2026-08-31T19:14:34.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
