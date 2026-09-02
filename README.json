@@ -223,7 +223,7 @@
                 "open_issues": 29,
                 "owner": "daldridge",
                 "repo": "docusaurus-plugin-lunr",
-                "stars": 61,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
@@ -350,7 +350,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T14:40:07Z",
+                "last_commit": "2026-09-02T14:40:25Z",
                 "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:55:29.250Z",
+    "last_updated": "2026-09-02T16:51:55.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
