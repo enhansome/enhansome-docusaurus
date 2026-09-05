@@ -197,7 +197,7 @@
                 "open_issues": 30,
                 "owner": "cmfcmf",
                 "repo": "docusaurus-search-local",
-                "stars": 502,
+                "stars": 503,
                 "topics": [
                   "docusaurus",
                   "lunrjs",
@@ -350,7 +350,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T14:37:53Z",
+                "last_commit": "2026-09-05T14:37:07Z",
                 "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:36:11.718Z",
+    "last_updated": "2026-09-05T15:33:31.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
