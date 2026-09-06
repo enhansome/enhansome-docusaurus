@@ -350,7 +350,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T14:37:07Z",
+                "last_commit": "2026-09-06T14:37:21Z",
                 "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:33:31.293Z",
+    "last_updated": "2026-09-06T15:47:47.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
@@ -573,7 +573,7 @@
       "open_issues": 0,
       "owner": "webbertakken",
       "repo": "awesome-docusaurus",
-      "stars": 168,
+      "stars": 171,
       "topics": [
         "awesome",
         "awesome-list",
