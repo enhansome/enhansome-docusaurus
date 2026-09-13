@@ -49,7 +49,7 @@
                 "open_issues": 91,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
-                "stars": 1103,
+                "stars": 1102,
                 "topics": [
                   "docusaurus",
                   "docusaurus-plugin",
@@ -350,7 +350,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T14:37:34Z",
+                "last_commit": "2026-09-13T14:36:44Z",
                 "open_issues": 7,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:50:22.736Z",
+    "last_updated": "2026-09-13T16:37:30.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
