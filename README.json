@@ -45,8 +45,8 @@
                 "id": 460077424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T22:52:18Z",
-                "open_issues": 91,
+                "last_commit": "2026-09-15T11:24:30Z",
+                "open_issues": 92,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
                 "stars": 1102,
@@ -350,7 +350,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T14:42:01Z",
+                "last_commit": "2026-09-15T14:40:08Z",
                 "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:12:01.247Z",
+    "last_updated": "2026-09-15T17:16:48.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
