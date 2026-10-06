@@ -27,14 +27,14 @@
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,102 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-30 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,103 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-30 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 
 ### Media display
 
 * [docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) ⭐ 84 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-07 - Easily integrate `medium-zoom`.
-* [heroshot](https://github.com/omachala/heroshot) ⭐ 75 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
+* [heroshot](https://github.com/omachala/heroshot) ⭐ 75 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
 * [plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) (official) - Responsive images with lazy-loading.
 
 ### Search
@@ -49,8 +49,8 @@
 
 ### Search Engine Optimisation (SEO)
 
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-05 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 16 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-26 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 15 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-04 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
 
@@ -58,6 +58,7 @@
 
 * [docusaurus-plugin-matomo](https://github.com/karser/docusaurus-plugin-matomo) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-03 - Matomo Analytics plugin.
 * [docusaurus-gtm-plugin](https://github.com/LukasGentele/docusaurus-gtm-plugin) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-18 - Google Tag Manager (GTM) plugin.
+* [@ciphera-net/pulse-docusaurus](https://github.com/ciphera-net/pulse-docusaurus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-15 - Pulse Analytics plugin. Privacy-first, no cookies.
 * [plugin-google-analytics](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics) (official) - The default Google Analytics (GA) plugin.
 * [plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) (official) - The default Global Site Tag (gtag.js) plugin.
 
@@ -73,7 +74,7 @@
 ## Themes
 
 * [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) ⭐ 84 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Typesense search component.
-* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 3 | 🐛 12 | 🌐 CSS | 📅 2026-09-28 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
+* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 3 | 🐛 12 | 🌐 CSS | 📅 2026-10-05 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
 * [theme-classic](https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic) (official) - The default theme.
 * [theme-live-codeblock](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock) (official) - A theme for live code blocks.
 * [theme-search-algolia](https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia) (official) - Algolia search component.
@@ -84,4 +85,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

@@ -49,7 +49,7 @@
                 "open_issues": 88,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
-                "stars": 1102,
+                "stars": 1103,
                 "topics": [
                   "docusaurus",
                   "docusaurus-plugin",
@@ -154,7 +154,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-28T20:59:04Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "omachala",
                 "repo": "heroshot",
                 "stars": 75,
@@ -306,6 +306,48 @@
           "children": [
             {
               "node_type": "item",
+              "title": "@aeorank/docusaurus",
+              "description": "Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Scan any website for AI visibility. Score 0–100 across 12 dimensions (aeorank-cli@0.1.1). Generate 8 AI-readable files. CLI + GitHub Action + App. MIT.",
+                "homepage": "https://aeorank.dev",
+                "id": 1182092885,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-05T14:46:31Z",
+                "open_issues": 8,
+                "owner": "vinpatel",
+                "repo": "aeorank",
+                "stars": 16,
+                "topics": [
+                  "aeo",
+                  "ai-optimization",
+                  "ai-search",
+                  "ai-visibility",
+                  "answer-engine-optimization",
+                  "chatgpt",
+                  "claude",
+                  "cli",
+                  "developer-tools",
+                  "generative-ai",
+                  "github-action",
+                  "github-app",
+                  "lighthouse",
+                  "llm",
+                  "llms-txt",
+                  "open-source",
+                  "perplexity",
+                  "schema-org",
+                  "seo",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-28T22:40:23.220Z"
+            },
+            {
+              "node_type": "item",
               "title": "docusaurus-plugin-copy-page-button",
               "description": "Adds a \"Copy page\" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.",
               "children": [],
@@ -334,48 +376,6 @@
                   "llm",
                   "markdown",
                   "react"
-                ]
-              },
-              "first_seen": "2026-08-28T22:40:23.220Z"
-            },
-            {
-              "node_type": "item",
-              "title": "@aeorank/docusaurus",
-              "description": "Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Scan any website for AI visibility. Score 0–100 across 12 dimensions (aeorank-cli@0.1.1). Generate 8 AI-readable files. CLI + GitHub Action + App. MIT.",
-                "homepage": "https://aeorank.dev",
-                "id": 1182092885,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-04T15:57:46Z",
-                "open_issues": 8,
-                "owner": "vinpatel",
-                "repo": "aeorank",
-                "stars": 15,
-                "topics": [
-                  "aeo",
-                  "ai-optimization",
-                  "ai-search",
-                  "ai-visibility",
-                  "answer-engine-optimization",
-                  "chatgpt",
-                  "claude",
-                  "cli",
-                  "developer-tools",
-                  "generative-ai",
-                  "github-action",
-                  "github-app",
-                  "lighthouse",
-                  "llm",
-                  "llms-txt",
-                  "open-source",
-                  "perplexity",
-                  "schema-org",
-                  "seo",
-                  "typescript"
                 ]
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
@@ -456,6 +456,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
+            },
+            {
+              "node_type": "item",
+              "title": "@ciphera-net/pulse-docusaurus",
+              "description": "Pulse Analytics plugin. Privacy-first, no cookies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pulse Analytics for Docusaurus — privacy-first web analytics in one plugin. No cookies, no personal data, under 3 KB.",
+                "homepage": "https://pulse.ciphera.net",
+                "id": 1371995925,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-15T21:47:18Z",
+                "open_issues": 0,
+                "owner": "ciphera-net",
+                "repo": "pulse-docusaurus",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:08:35.394Z"
             }
           ],
           "description": null,
@@ -536,7 +557,7 @@
             "id": 1176687950,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-09-28T16:06:21Z",
+            "last_commit": "2026-10-05T16:06:00Z",
             "open_issues": 12,
             "owner": "SckyzO",
             "repo": "cosmos-docusaurus-theme",
@@ -561,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:02:25.003Z",
+    "last_updated": "2026-10-06T11:08:35.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
@@ -569,7 +590,7 @@
       "id": 492947718,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-16T14:00:40Z",
+      "last_commit": "2026-10-06T00:12:22Z",
       "open_issues": 1,
       "owner": "webbertakken",
       "repo": "awesome-docusaurus",
@@ -581,7 +602,7 @@
         "docusaurus-documentation"
       ]
     },
-    "original_repository_sha": "185eb7d21e5a5cd41d66e1684ef318d29df2c872",
+    "original_repository_sha": "2b30e7f7eb7a62d282b00625715e81ccf1bc68b2",
     "enhanced_repository": "enhansome/enhansome-docusaurus",
     "enhanced_repository_description": null,
     "title": "Awesome Docusaurus with stars"
