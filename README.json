@@ -45,11 +45,11 @@
                 "id": 460077424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T17:34:42Z",
-                "open_issues": 88,
+                "last_commit": "2026-10-09T18:04:08Z",
+                "open_issues": 82,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
-                "stars": 1103,
+                "stars": 1102,
                 "topics": [
                   "docusaurus",
                   "docusaurus-plugin",
@@ -197,7 +197,7 @@
                 "open_issues": 30,
                 "owner": "cmfcmf",
                 "repo": "docusaurus-search-local",
-                "stars": 503,
+                "stars": 502,
                 "topics": [
                   "docusaurus",
                   "lunrjs",
@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T14:45:38Z",
+                "last_commit": "2026-10-09T14:46:48Z",
                 "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -469,7 +469,7 @@
                 "id": 1371995925,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T21:47:18Z",
+                "last_commit": "2026-10-09T13:06:44Z",
                 "open_issues": 0,
                 "owner": "ciphera-net",
                 "repo": "pulse-docusaurus",
@@ -533,7 +533,7 @@
             "open_issues": 13,
             "owner": "typesense",
             "repo": "docusaurus-theme-search-typesense",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "docsearch",
               "docusaurus",
@@ -582,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:00:57.774Z",
+    "last_updated": "2026-10-09T18:31:16.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
