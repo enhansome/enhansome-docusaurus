@@ -27,7 +27,7 @@
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,102 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-09 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,102 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-12 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 
@@ -41,7 +41,7 @@
 
 * [docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local) ⭐ 502 | 🐛 30 | 🌐 JavaScript | 📅 2026-01-20 - Offline / local search that works behind your firewall.
 * [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) ⭐ 60 | 🐛 29 | 🌐 TypeScript | 📅 2023-08-19 - Create search index for use with Lunr.js.
-* [docusaurus-biel](https://github.com/TechDocsStudio/docusaurus-biel) ⭐ 0 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-11 - AI chat and search that answers questions from your documentation, with citations to the source pages.
+* [docusaurus-biel](https://github.com/TechDocsStudio/docusaurus-biel) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-12 - AI chat and search that answers questions from your documentation, with citations to the source pages.
 
 ### Sidebars
 
@@ -49,8 +49,8 @@
 
 ### Search Engine Optimisation (SEO)
 
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-11 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
-* [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 16 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-26 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-12 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 16 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-12 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
 
@@ -85,4 +85,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
