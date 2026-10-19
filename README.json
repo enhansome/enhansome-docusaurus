@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T14:37:41Z",
+                "last_commit": "2026-10-19T14:42:53Z",
                 "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -557,7 +557,7 @@
             "id": 1176687950,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-10-13T19:14:08Z",
+            "last_commit": "2026-10-19T16:07:07Z",
             "open_issues": 13,
             "owner": "SckyzO",
             "repo": "cosmos-docusaurus-theme",
@@ -582,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:08:15.650Z",
+    "last_updated": "2026-10-19T18:50:17.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
