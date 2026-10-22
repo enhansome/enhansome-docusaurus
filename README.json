@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T14:42:37Z",
+                "last_commit": "2026-10-22T14:42:43Z",
                 "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -359,7 +359,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-10-12T12:06:27Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "portdeveloper",
                 "repo": "docusaurus-plugin-copy-page-button",
                 "stars": 16,
@@ -582,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:39:55.846Z",
+    "last_updated": "2026-10-22T17:38:26.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
