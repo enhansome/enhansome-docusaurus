@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-01T23:41:35Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "webbertakken",
                 "repo": "docusaurus-plugin-content-gists",
                 "stars": 12,
@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T14:44:49Z",
+                "last_commit": "2026-10-24T14:38:21Z",
                 "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -533,7 +533,7 @@
             "open_issues": 13,
             "owner": "typesense",
             "repo": "docusaurus-theme-search-typesense",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "docsearch",
               "docusaurus",
@@ -582,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:27:28.467Z",
+    "last_updated": "2026-10-24T16:15:14.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
@@ -590,7 +590,7 @@
       "id": 492947718,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-06T00:12:22Z",
+      "last_commit": "2026-10-24T10:17:43Z",
       "open_issues": 0,
       "owner": "webbertakken",
       "repo": "awesome-docusaurus",
@@ -602,7 +602,7 @@
         "docusaurus-documentation"
       ]
     },
-    "original_repository_sha": "2b30e7f7eb7a62d282b00625715e81ccf1bc68b2",
+    "original_repository_sha": "4786c890932f782bc530e7c209820896eca391ba",
     "enhanced_repository": "enhansome/enhansome-docusaurus",
     "enhanced_repository_description": null,
     "title": "Awesome Docusaurus with stars"
