@@ -17,7 +17,7 @@
                 "id": 492946968,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-01T23:41:35Z",
+                "last_commit": "2026-10-25T01:21:57Z",
                 "open_issues": 1,
                 "owner": "webbertakken",
                 "repo": "docusaurus-plugin-content-gists",
@@ -49,7 +49,7 @@
                 "open_issues": 84,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
-                "stars": 1102,
+                "stars": 1103,
                 "topics": [
                   "docusaurus",
                   "docusaurus-plugin",
@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T14:38:21Z",
+                "last_commit": "2026-10-25T14:38:33Z",
                 "open_issues": 8,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -362,7 +362,7 @@
                 "open_issues": 3,
                 "owner": "portdeveloper",
                 "repo": "docusaurus-plugin-copy-page-button",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "ai-tools",
                   "chatgpt",
@@ -557,8 +557,8 @@
             "id": 1176687950,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-10-19T16:07:07Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-25T09:51:57Z",
+            "open_issues": 2,
             "owner": "SckyzO",
             "repo": "cosmos-docusaurus-theme",
             "stars": 3,
@@ -582,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T16:15:14.901Z",
+    "last_updated": "2026-10-25T16:49:23.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
