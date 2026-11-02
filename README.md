@@ -27,7 +27,7 @@
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,105 | 🐛 91 | 🌐 TypeScript | 📅 2026-10-30 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,105 | 🐛 88 | 🌐 TypeScript | 📅 2026-11-02 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 
@@ -49,7 +49,7 @@
 
 ### Search Engine Optimisation (SEO)
 
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 18 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-01 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 18 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-01 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-12 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
@@ -58,7 +58,7 @@
 
 * [docusaurus-plugin-matomo](https://github.com/karser/docusaurus-plugin-matomo) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-03 - Matomo Analytics plugin.
 * [docusaurus-gtm-plugin](https://github.com/LukasGentele/docusaurus-gtm-plugin) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-18 - Google Tag Manager (GTM) plugin.
-* [@ciphera-net/pulse-docusaurus](https://github.com/ciphera-net/pulse-docusaurus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - Pulse Analytics plugin. Privacy-first, no cookies.
+* [@ciphera-net/pulse-docusaurus](https://github.com/ciphera-net/pulse-docusaurus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-02 - Pulse Analytics plugin. Privacy-first, no cookies.
 * [plugin-google-analytics](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics) (official) - The default Google Analytics (GA) plugin.
 * [plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) (official) - The default Global Site Tag (gtag.js) plugin.
 
@@ -74,7 +74,7 @@
 ## Themes
 
 * [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) ⭐ 86 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Typesense search component.
-* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 3 | 🐛 4 | 🌐 CSS | 📅 2026-10-26 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
+* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 3 | 🐛 5 | 🌐 CSS | 📅 2026-11-02 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
 * [theme-classic](https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic) (official) - The default theme.
 * [theme-live-codeblock](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock) (official) - A theme for live code blocks.
 * [theme-search-algolia](https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia) (official) - Algolia search component.
@@ -85,4 +85,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
