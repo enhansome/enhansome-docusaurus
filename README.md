@@ -40,7 +40,7 @@
 ### Search
 
 * [docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local) ⭐ 503 | 🐛 30 | 🌐 JavaScript | 📅 2026-01-20 - Offline / local search that works behind your firewall.
-* [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) ⭐ 60 | 🐛 29 | 🌐 TypeScript | 📅 2023-08-19 - Create search index for use with Lunr.js.
+* [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) ⭐ 61 | 🐛 29 | 🌐 TypeScript | 📅 2023-08-19 - Create search index for use with Lunr.js.
 * [docusaurus-biel](https://github.com/TechDocsStudio/docusaurus-biel) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-14 - AI chat and search that answers questions from your documentation, with citations to the source pages.
 
 ### Sidebars
@@ -49,7 +49,7 @@
 
 ### Search Engine Optimisation (SEO)
 
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 18 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-04 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-05 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-12 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
@@ -85,4 +85,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
