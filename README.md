@@ -20,7 +20,7 @@
 
 ### Content
 
-* [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-29 - Content plugin for displaying your GitHub gists.
+* [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-08 - Content plugin for displaying your GitHub gists.
 * [plugin-content-blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog) (official) - The default blog plugin.
 * [plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) (official) - The default docs plugin.
 * [plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) (official) - The default pages plugin.
@@ -49,7 +49,7 @@
 
 ### Search Engine Optimisation (SEO)
 
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-06 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-08 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-12 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
@@ -58,7 +58,7 @@
 
 * [docusaurus-plugin-matomo](https://github.com/karser/docusaurus-plugin-matomo) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-03 - Matomo Analytics plugin.
 * [docusaurus-gtm-plugin](https://github.com/LukasGentele/docusaurus-gtm-plugin) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-18 - Google Tag Manager (GTM) plugin.
-* [@ciphera-net/pulse-docusaurus](https://github.com/ciphera-net/pulse-docusaurus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-03 - Pulse Analytics plugin. Privacy-first, no cookies.
+* [@ciphera-net/pulse-docusaurus](https://github.com/ciphera-net/pulse-docusaurus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 - Pulse Analytics plugin. Privacy-first, no cookies.
 * [plugin-google-analytics](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics) (official) - The default Google Analytics (GA) plugin.
 * [plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) (official) - The default Global Site Tag (gtag.js) plugin.
 
@@ -85,4 +85,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

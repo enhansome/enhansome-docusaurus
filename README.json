@@ -17,7 +17,7 @@
                 "id": 492946968,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T21:37:49Z",
+                "last_commit": "2026-11-08T12:22:52Z",
                 "open_issues": 1,
                 "owner": "webbertakken",
                 "repo": "docusaurus-plugin-content-gists",
@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T20:30:30Z",
+                "last_commit": "2026-11-08T17:51:32Z",
                 "open_issues": 9,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -469,7 +469,7 @@
                 "id": 1371995925,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T16:23:47Z",
+                "last_commit": "2026-11-08T07:07:56Z",
                 "open_issues": 0,
                 "owner": "ciphera-net",
                 "repo": "pulse-docusaurus",
@@ -582,7 +582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:51:42.381Z",
+    "last_updated": "2026-11-08T18:05:23.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
