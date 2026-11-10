@@ -45,8 +45,8 @@
                 "id": 460077424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T20:39:31Z",
-                "open_issues": 85,
+                "last_commit": "2026-11-10T11:25:25Z",
+                "open_issues": 91,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
                 "stars": 1108,
@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T18:59:32Z",
+                "last_commit": "2026-11-09T23:31:11Z",
                 "open_issues": 9,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -358,8 +358,8 @@
                 "id": 1025794517,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-12T12:06:27Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-10T08:15:44Z",
+                "open_issues": 2,
                 "owner": "portdeveloper",
                 "repo": "docusaurus-plugin-copy-page-button",
                 "stars": 17,
@@ -400,6 +400,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
+            },
+            {
+              "node_type": "item",
+              "title": "docusaurus-plugin-myog",
+              "description": "Adds a per-page and , generated from each page's URL by MyOG.social (paid service).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Per-page MyOG.social Open Graph images for Docusaurus 3.10.2",
+                "homepage": null,
+                "id": 1421724500,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-05T04:22:55Z",
+                "open_issues": 0,
+                "owner": "MyOG-social",
+                "repo": "docusaurus-plugin-myog",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-10T20:00:19.606Z"
             }
           ],
           "description": null,
@@ -505,6 +526,45 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T22:40:23.220Z"
+            },
+            {
+              "node_type": "item",
+              "title": "docusaurus-plugin-onlinecompiler",
+              "description": "Runnable code blocks: add to a code block and readers edit and run it in the page, in 46 languages, with the code run in a sandbox by OnlineCompiler.io.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Docusaurus plugin for runnable, interactive code examples: write ```python runnable and readers edit and run code in 46 languages (Python, JavaScript, C++, Java, Go, SQL) in your docs.",
+                "homepage": "https://onlinecompiler.io/guides/add-runnable-code-examples-to-docusaurus",
+                "id": 1451781484,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-09T20:04:48Z",
+                "open_issues": 0,
+                "owner": "onlinecompiler-io",
+                "repo": "docusaurus-plugin-onlinecompiler",
+                "stars": 0,
+                "topics": [
+                  "code-editor",
+                  "code-playground",
+                  "code-runner",
+                  "developer-tools",
+                  "docs-as-code",
+                  "documentation",
+                  "docusaurus",
+                  "docusaurus-plugin",
+                  "docusaurus-v3",
+                  "interactive-code",
+                  "javascript",
+                  "live-code",
+                  "mdx",
+                  "online-compiler",
+                  "onlinecompiler",
+                  "python",
+                  "runnable-code"
+                ]
+              },
+              "first_seen": "2026-11-10T20:00:19.606Z"
             }
           ],
           "description": null,
@@ -582,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:42:42.443Z",
+    "last_updated": "2026-11-10T20:00:19.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
@@ -590,7 +650,7 @@
       "id": 492947718,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-24T10:17:43Z",
+      "last_commit": "2026-11-10T13:20:26Z",
       "open_issues": 1,
       "owner": "webbertakken",
       "repo": "awesome-docusaurus",
@@ -602,7 +662,7 @@
         "docusaurus-documentation"
       ]
     },
-    "original_repository_sha": "4786c890932f782bc530e7c209820896eca391ba",
+    "original_repository_sha": "c8b9591f03ae572f64315d9bdc4b7c4980073457",
     "enhanced_repository": "enhansome/enhansome-docusaurus",
     "enhanced_repository_description": null,
     "title": "Awesome Docusaurus with stars"

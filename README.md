@@ -27,7 +27,7 @@
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-09 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-10 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 
@@ -49,9 +49,10 @@
 
 ### Search Engine Optimisation (SEO)
 
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-08 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
-* [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-12 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-09 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-10 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
+* [docusaurus-plugin-myog](https://github.com/MyOG-social/docusaurus-plugin-myog) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05 - Adds a per-page `og:image` and `twitter:image`, generated from each page's URL by MyOG.social (paid service).
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
 
 ### Tracking
@@ -69,6 +70,7 @@
 ### Miscellaneous
 
 * [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) ⭐ 76 | 🐛 29 | 🌐 TypeScript | 📅 2024-09-08 - Source code API documentation powered by TypeDoc.
+* [docusaurus-plugin-onlinecompiler](https://github.com/onlinecompiler-io/docusaurus-plugin-onlinecompiler) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09 - Runnable code blocks: add `runnable` to a code block and readers edit and run it in the page, in 46 languages, with the code run in a sandbox by OnlineCompiler.io.
 * [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
 
 ## Themes
@@ -85,4 +87,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
