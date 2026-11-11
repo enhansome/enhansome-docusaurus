@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T23:31:11Z",
+                "last_commit": "2026-11-10T20:57:58Z",
                 "open_issues": 9,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -362,7 +362,7 @@
                 "open_issues": 2,
                 "owner": "portdeveloper",
                 "repo": "docusaurus-plugin-copy-page-button",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "ai-tools",
                   "chatgpt",
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:00:19.606Z",
+    "last_updated": "2026-11-11T19:52:11.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
