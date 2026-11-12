@@ -27,7 +27,7 @@
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 91 | 🌐 TypeScript | 📅 2026-11-10 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 93 | 🌐 TypeScript | 📅 2026-11-12 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 
@@ -49,7 +49,7 @@
 
 ### Search Engine Optimisation (SEO)
 
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-10 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-11 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-10 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [docusaurus-plugin-myog](https://github.com/MyOG-social/docusaurus-plugin-myog) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05 - Adds a per-page `og:image` and `twitter:image`, generated from each page's URL by MyOG.social (paid service).
@@ -59,7 +59,7 @@
 
 * [docusaurus-plugin-matomo](https://github.com/karser/docusaurus-plugin-matomo) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-03 - Matomo Analytics plugin.
 * [docusaurus-gtm-plugin](https://github.com/LukasGentele/docusaurus-gtm-plugin) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-18 - Google Tag Manager (GTM) plugin.
-* [@ciphera-net/pulse-docusaurus](https://github.com/ciphera-net/pulse-docusaurus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Pulse Analytics plugin. Privacy-first, no cookies.
+* [@ciphera-net/pulse-docusaurus](https://github.com/ciphera-net/pulse-docusaurus) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - Pulse Analytics plugin. Privacy-first, no cookies.
 * [plugin-google-analytics](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics) (official) - The default Google Analytics (GA) plugin.
 * [plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) (official) - The default Global Site Tag (gtag.js) plugin.
 
@@ -87,4 +87,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
