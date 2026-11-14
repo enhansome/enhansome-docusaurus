@@ -27,14 +27,14 @@
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 93 | 🌐 TypeScript | 📅 2026-11-12 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-12 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 
 ### Media display
 
 * [docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) ⭐ 84 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-07 - Easily integrate `medium-zoom`.
-* [heroshot](https://github.com/omachala/heroshot) ⭐ 75 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
+* [heroshot](https://github.com/omachala/heroshot) ⭐ 77 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
 * [plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) (official) - Responsive images with lazy-loading.
 
 ### Search
@@ -49,7 +49,7 @@
 
 ### Search Engine Optimisation (SEO)
 
-* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 19 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-12 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
+* [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 20 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-13 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 * [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-10 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [docusaurus-plugin-myog](https://github.com/MyOG-social/docusaurus-plugin-myog) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05 - Adds a per-page `og:image` and `twitter:image`, generated from each page's URL by MyOG.social (paid service).
@@ -87,4 +87,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

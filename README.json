@@ -46,7 +46,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-12T05:26:14Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
                 "stars": 1108,
@@ -157,7 +157,7 @@
                 "open_issues": 4,
                 "owner": "omachala",
                 "repo": "heroshot",
-                "stars": 75,
+                "stars": 77,
                 "topics": [
                   "automation",
                   "cli",
@@ -316,11 +316,11 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T21:32:34Z",
+                "last_commit": "2026-11-13T20:57:33Z",
                 "open_issues": 9,
                 "owner": "vinpatel",
                 "repo": "aeorank",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "aeo",
                   "ai-optimization",
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:03:13.965Z",
+    "last_updated": "2026-11-14T18:29:41.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
