@@ -45,8 +45,8 @@
                 "id": 460077424,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T05:26:14Z",
-                "open_issues": 94,
+                "last_commit": "2026-11-15T02:54:35Z",
+                "open_issues": 88,
                 "owner": "PaloAltoNetworks",
                 "repo": "docusaurus-openapi-docs",
                 "stars": 1108,
@@ -157,7 +157,7 @@
                 "open_issues": 4,
                 "owner": "omachala",
                 "repo": "heroshot",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "automation",
                   "cli",
@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T20:57:33Z",
+                "last_commit": "2026-11-15T18:43:22Z",
                 "open_issues": 9,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -485,12 +485,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Pulse Analytics for Docusaurus — privacy-first web analytics in one plugin. No cookies, no personal data, under 3 KB.",
+                "description": "Pulse Analytics for Docusaurus in one plugin. It sets no cookies and never stores IP addresses. The script is about 3 KB.",
                 "homepage": "https://pulse.ciphera.net",
                 "id": 1371995925,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T17:25:04Z",
+                "last_commit": "2026-11-14T21:05:56Z",
                 "open_issues": 0,
                 "owner": "ciphera-net",
                 "repo": "pulse-docusaurus",
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:29:41.374Z",
+    "last_updated": "2026-11-15T19:06:59.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
