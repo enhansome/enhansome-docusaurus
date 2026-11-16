@@ -20,14 +20,14 @@
 
 ### Content
 
-* [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-09 - Content plugin for displaying your GitHub gists.
+* [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16 - Content plugin for displaying your GitHub gists.
 * [plugin-content-blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog) (official) - The default blog plugin.
 * [plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) (official) - The default docs plugin.
 * [plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) (official) - The default pages plugin.
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 88 | 🌐 TypeScript | 📅 2026-11-15 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-16 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 
@@ -50,7 +50,7 @@
 ### Search Engine Optimisation (SEO)
 
 * [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) ⭐ 20 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-15 - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
-* [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-10 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
+* [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) ⭐ 19 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-10 - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
 * [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - Automatically generate JSON-LD structured data (schema.org) for SEO.
 * [docusaurus-plugin-myog](https://github.com/MyOG-social/docusaurus-plugin-myog) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05 - Adds a per-page `og:image` and `twitter:image`, generated from each page's URL by MyOG.social (paid service).
 * [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
@@ -70,13 +70,13 @@
 ### Miscellaneous
 
 * [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) ⭐ 76 | 🐛 29 | 🌐 TypeScript | 📅 2024-09-08 - Source code API documentation powered by TypeDoc.
-* [docusaurus-plugin-onlinecompiler](https://github.com/onlinecompiler-io/docusaurus-plugin-onlinecompiler) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09 - Runnable code blocks: add `runnable` to a code block and readers edit and run it in the page, in 46 languages, with the code run in a sandbox by OnlineCompiler.io.
+* [docusaurus-plugin-onlinecompiler](https://github.com/onlinecompiler-io/docusaurus-plugin-onlinecompiler) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-16 - Runnable code blocks: add `runnable` to a code block and readers edit and run it in the page, in 46 languages, with the code run in a sandbox by OnlineCompiler.io.
 * [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
 
 ## Themes
 
 * [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) ⭐ 86 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Typesense search component.
-* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 4 | 🐛 8 | 🌐 CSS | 📅 2026-11-09 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
+* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 4 | 🐛 9 | 🌐 CSS | 📅 2026-11-16 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
 * [theme-classic](https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic) (official) - The default theme.
 * [theme-live-codeblock](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock) (official) - A theme for live code blocks.
 * [theme-search-algolia](https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia) (official) - Algolia search component.
@@ -87,4 +87,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
