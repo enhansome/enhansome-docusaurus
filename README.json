@@ -316,7 +316,7 @@
                 "id": 1182092885,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T22:34:31Z",
+                "last_commit": "2026-11-18T22:14:59Z",
                 "open_issues": 9,
                 "owner": "vinpatel",
                 "repo": "aeorank",
@@ -593,7 +593,7 @@
             "open_issues": 13,
             "owner": "typesense",
             "repo": "docusaurus-theme-search-typesense",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "docsearch",
               "docusaurus",
@@ -621,7 +621,7 @@
             "open_issues": 9,
             "owner": "SckyzO",
             "repo": "cosmos-docusaurus-theme",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "css",
               "css-theme",
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:54:19.450Z",
+    "last_updated": "2026-11-19T20:58:45.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Docusaurus resources. ",
@@ -654,7 +654,7 @@
       "open_issues": 1,
       "owner": "webbertakken",
       "repo": "awesome-docusaurus",
-      "stars": 174,
+      "stars": 175,
       "topics": [
         "awesome",
         "awesome-list",
