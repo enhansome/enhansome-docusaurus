@@ -20,14 +20,14 @@
 
 ### Content
 
-* [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16 - Content plugin for displaying your GitHub gists.
+* [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23 - Content plugin for displaying your GitHub gists.
 * [plugin-content-blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog) (official) - The default blog plugin.
 * [plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) (official) - The default docs plugin.
 * [plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) (official) - The default pages plugin.
 
 ### Data sources
 
-* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-20 - Genertate Markdown documentation from an OpenAPI specification.
+* [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) ⭐ 1,108 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-23 - Genertate Markdown documentation from an OpenAPI specification.
 * [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) ⭐ 112 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-09 - Download content from remote sources.
 * [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2023-12-06 - Generate Markdown documentation from a GraphQL schema.
 
@@ -41,7 +41,7 @@
 
 * [docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local) ⭐ 503 | 🐛 30 | 🌐 JavaScript | 📅 2026-01-20 - Offline / local search that works behind your firewall.
 * [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) ⭐ 61 | 🐛 29 | 🌐 TypeScript | 📅 2023-08-19 - Create search index for use with Lunr.js.
-* [docusaurus-plugin-docsense](https://github.com/meharshit/docsense) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - Build-time local search that indexes Markdown/MDX into static JSON with a navbar SearchBar (no Algolia).
+* [docusaurus-plugin-docsense](https://github.com/meharshit/docsense) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - Build-time local search that indexes Markdown/MDX into static JSON with a navbar SearchBar (no Algolia).
 * [docusaurus-biel](https://github.com/TechDocsStudio/docusaurus-biel) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-14 - AI chat and search that answers questions from your documentation, with citations to the source pages.
 
 ### Sidebars
@@ -77,7 +77,7 @@
 ## Themes
 
 * [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) ⭐ 87 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Typesense search component.
-* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 5 | 🐛 9 | 🌐 CSS | 📅 2026-11-16 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
+* [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) ⭐ 5 | 🐛 9 | 🌐 CSS | 📅 2026-11-23 - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
 * [docusaurus-theme-quiet](https://github.com/TechDocsStudio/docusaurus-theme-quiet) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-10 - Minimal theme with configurable branding and a consistent interface for guides, API references, and extensions.
 * [theme-classic](https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic) (official) - The default theme.
 * [theme-live-codeblock](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock) (official) - A theme for live code blocks.
@@ -89,4 +89,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
